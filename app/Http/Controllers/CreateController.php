@@ -6,7 +6,7 @@ use Response;
 use Illuminate\Http\Request;
 use App\Models\employee;
 
-class employeecontroller extends Controller
+class CreateController extends Controller
 {
     public function index()
     {   
